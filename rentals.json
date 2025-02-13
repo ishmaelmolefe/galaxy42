@@ -1,0 +1,111 @@
+[
+    {
+      "customerName": "John Doe",
+      "customerEmail": "john@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81c",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-10",
+      "totalCost": 3000,
+      "status": "active"
+    },
+    {
+      "customerName": "Jane Smith",
+      "customerEmail": "jane.smith@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81d",
+      "startDate": "2025-02-05",
+      "endDate": "2025-02-15",
+      "totalCost": 4500,
+      "status": "active"
+    },
+    {
+      "customerName": "Alice Johnson",
+      "customerEmail": "alice.johnson@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81e",
+      "startDate": "2025-01-20",
+      "endDate": "2025-01-25",
+      "totalCost": 2000,
+      "status": "completed"
+    },
+    {
+      "customerName": "Bob Lee",
+      "customerEmail": "bob.lee@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81f",
+      "startDate": "2025-02-10",
+      "endDate": "2025-02-20",
+      "totalCost": 4000,
+      "status": "active"
+    },
+    {
+      "customerName": "Charlie Brown",
+      "customerEmail": "charlie.brown@example.com",
+      "carId": "67abc7b3020f4d60e9e1c820",
+      "startDate": "2025-02-12",
+      "endDate": "2025-02-22",
+      "totalCost": 4500,
+      "status": "active"
+    },
+    {
+      "customerName": "David Miller",
+      "customerEmail": "david.miller@example.com",
+      "carId": "67abc7b3020f4d60e9e1c821",
+      "startDate": "2025-01-10",
+      "endDate": "2025-01-20",
+      "totalCost": 3000,
+      "status": "completed"
+    },
+    {
+      "customerName": "Eva White",
+      "customerEmail": "eva.white@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81c",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-08",
+      "totalCost": 2800,
+      "status": "completed"
+    },
+    {
+      "customerName": "Frank Harris",
+      "customerEmail": "frank.harris@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81d",
+      "startDate": "2025-01-18",
+      "endDate": "2025-01-25",
+      "totalCost": 3500,
+      "status": "completed"
+    },
+    {
+      "customerName": "Grace Adams",
+      "customerEmail": "grace.adams@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81e",
+      "startDate": "2025-02-05",
+      "endDate": "2025-02-12",
+      "totalCost": 3800,
+      "status": "active"
+    },
+    {
+      "customerName": "Henry King",
+      "customerEmail": "henry.king@example.com",
+      "carId": "67abc7b3020f4d60e9e1c81f",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-07",
+      "totalCost": 2700,
+      "status": "completed"
+    },
+    {
+      "customerName": "Isabel Scott",
+      "customerEmail": "isabel.scott@example.com",
+      "carId": "67abc7b3020f4d60e9e1c820",
+      "startDate": "2025-01-12",
+      "endDate": "2025-01-18",
+      "totalCost": 2500,
+      "status": "completed"
+    },
+    {
+      "customerName": "James Williams",
+      "customerEmail": "james.williams@example.com",
+      "carId": "67abc7b3020f4d60e9e1c821",
+      "startDate": "2025-02-15",
+      "endDate": "2025-02-22",
+      "totalCost": 3700,
+      "status": "active"
+    }
+  ]
+  

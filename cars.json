@@ -1,0 +1,241 @@
+[
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "pricePerMonth": 300,
+      "available": true
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "pricePerMonth": 350,
+      "available": true
+    },
+    {
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2018,
+      "pricePerMonth": 280,
+      "available": false
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2021,
+      "pricePerMonth": 400,
+      "available": true
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "pricePerMonth": 800,
+      "available": true
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2020,
+      "pricePerMonth": 650,
+      "available": true
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": 2019,
+      "pricePerMonth": 500,
+      "available": false
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "pricePerMonth": 900,
+      "available": true
+    },
+    {
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "pricePerMonth": 330,
+      "available": true
+    },
+    {
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2022,
+      "pricePerMonth": 370,
+      "available": true
+    },
+    {
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2020,
+      "pricePerMonth": 320,
+      "available": true
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2021,
+      "pricePerMonth": 450,
+      "available": true
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2018,
+      "pricePerMonth": 250,
+      "available": false
+    },
+    {
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2020,
+      "pricePerMonth": 400,
+      "available": true
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2019,
+      "pricePerMonth": 380,
+      "available": true
+    },
+    {
+      "make": "Ford",
+      "model": "Escape",
+      "year": 2021,
+      "pricePerMonth": 420,
+      "available": true
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2020,
+      "pricePerMonth": 450,
+      "available": false
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "pricePerMonth": 450,
+      "available": true
+    },
+    {
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2021,
+      "pricePerMonth": 600,
+      "available": true
+    },
+    {
+      "make": "Audi",
+      "model": "Q5",
+      "year": 2022,
+      "pricePerMonth": 700,
+      "available": true
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "year": 2020,
+      "pricePerMonth": 750,
+      "available": true
+    },
+    {
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2021,
+      "pricePerMonth": 650,
+      "available": true
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X",
+      "year": 2022,
+      "pricePerMonth": 1000,
+      "available": true
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2020,
+      "pricePerMonth": 700,
+      "available": false
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2021,
+      "pricePerMonth": 720,
+      "available": true
+    },
+    {
+      "make": "Nissan",
+      "model": "370Z",
+      "year": 2019,
+      "pricePerMonth": 550,
+      "available": false
+    },
+    {
+      "make": "Subaru",
+      "model": "Impreza",
+      "year": 2020,
+      "pricePerMonth": 300,
+      "available": true
+    },
+    {
+      "make": "Mazda",
+      "model": "Mazda3",
+      "year": 2021,
+      "pricePerMonth": 380,
+      "available": true
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2021,
+      "pricePerMonth": 400,
+      "available": true
+    },
+    {
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2022,
+      "pricePerMonth": 450,
+      "available": true
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2020,
+      "pricePerMonth": 420,
+      "available": true
+    },
+    {
+      "make": "Audi",
+      "model": "A6",
+      "year": 2020,
+      "pricePerMonth": 700,
+      "available": false
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "year": 2021,
+      "pricePerMonth": 750,
+      "available": true
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "year": 2020,
+      "pricePerMonth": 650,
+      "available": true
+    }
+  ]
+  
