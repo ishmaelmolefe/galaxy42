@@ -26,8 +26,8 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 
 - User authentication using JWT tokens
 - Car management (adding, retrieving cars)
-- Rental management (renting cars, fetching rental data)
-- Transaction analytics for customers
+- Rental management (fetching rental data)
+- Transaction analytics for customers transaction data
 
 ---
 
@@ -45,5 +45,14 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/galaxy44.git
+   git clone https://github.com/ishmaelmolefe/galaxy42.git
    cd galaxy44
+   
+## Configuration
+
+  -MONGO_URI=mongodb://localhost:27017/galaxy44
+  -JWT_SECRET=your_secret_key
+  -API_KEY=your_secret_key
+  -API_URL=your_url_link
+
+   
