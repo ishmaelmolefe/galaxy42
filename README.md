@@ -1,6 +1,6 @@
-# Galaxy44 API
+# Galaxy42 API
 
-Galaxy44 is a full-stack car rental service with features like JWT authentication, MongoDB storage for cars, rentals, and customer transaction insights, and a streamlined API for users to interact with the system.
+Galaxy42 is a full-stack car rental service with features like JWT authentication, MongoDB storage for cars, rentals, and customer transaction insights, and a streamlined API for users to interact with the system.
 
 ---
 
@@ -42,7 +42,7 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 
 ## Configuration
 1.env:
-   ```MONGO_URI=mongodb://localhost:27017/galaxy44
+   ```MONGO_URI=mongodb://localhost:27017/galaxy42
    JWT_SECRET=your_jwt_secret_key
    API_KEY=your_api_key
    API_URL=https://your-api-endpoint.com
