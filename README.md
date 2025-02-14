@@ -46,11 +46,3 @@ Galaxy42 is a full-stack car rental service with features like JWT authenticatio
    JWT_SECRET=your_jwt_secret_key
    API_KEY=your_api_key
    API_URL=https://your-api-endpoint.com
- ---
-
-
-
-   
-     
-
-   
