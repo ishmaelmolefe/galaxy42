@@ -43,12 +43,18 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 
 ## Configuration
 1.env:
-```MONGO_URI=mongodb://localhost:27017/galaxy44
-JWT_SECRET=your_jwt_secret_key
-API_KEY=your_api_key
-API_URL=https://your-api-endpoint.com
-
+   ```MONGO_URI=mongodb://localhost:27017/galaxy44
+   JWT_SECRET=your_jwt_secret_key
+   API_KEY=your_api_key
+   API_URL=https://your-api-endpoint.com
 ---
+
+## running-the-app
+1.running the app:
+   ```node app.js
+---
+
+
 
 
    
