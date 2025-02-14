@@ -49,7 +49,7 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
    API_URL=https://your-api-endpoint.com
 ---
 
-## running-the-app
+## Running the App
 1.running the app:
    ```node app.js
 ---
