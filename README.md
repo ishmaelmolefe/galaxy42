@@ -36,7 +36,7 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/ishmaelmolefe/galaxy42.git
-   cd galaxy44
+   cd galaxy42
    npm install
  ---
 
