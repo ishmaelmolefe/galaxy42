@@ -51,7 +51,7 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
 
 ## StartApp
 
-- Node App.js
+- node app.js
 ---
 
 
