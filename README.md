@@ -56,5 +56,6 @@ Galaxy44 is a full-stack car rental service with features like JWT authenticatio
   -JWT_SECRET=your_secret_key
   -API_KEY=your_secret_key
   -API_URL=your_url_link
+---     
 
    
